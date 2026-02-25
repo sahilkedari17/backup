@@ -1,0 +1,17 @@
+,,,,
+,,,,
+,"
+",,,
+,,,,
+,,,,
+,transaction_id ,,,items
+,t1,,,"bread,milk"
+,t2,,,"bread,diaper,beer,eggs"
+,t3,,,"Milk,diaper,beer,coke"
+,t4,,,"bread,milk,diaper,beer"
+,t5,,,"bread,milk,diaper,coke"
+,t6,,,"milk,eggs"
+,t7,,,"bread,butter"
+,t8,,,"bread,milk,butter"
+,t9,,,"diaper,beer"
+,t10,,,"bread,milk,diaper,beer"
